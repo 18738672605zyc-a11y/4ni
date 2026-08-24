@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "regions": ["ams1"],
+  "regions": ["arn1"],
   "builds": [
     {
       "src": "index.js",
